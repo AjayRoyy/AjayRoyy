@@ -1,7 +1,9 @@
-- 👀 I’m interested in Coding FrontEnd And BackEnd
+![background_image(1)](https://user-images.githubusercontent.com/112617632/229009170-64d830a3-0bc0-468d-85e0-2ed79f976c29.png)
+
+
 - 🌱 I’m currently learning Full Stack Web Development
-- 💞️ I’m looking to collaborate on New technology related people, who can help me improve my coding sklls.May be my skills will help you too.
-- 💕 lets grow together💕
+- 👨🏽‍🤝‍👨🏼 I’m looking to collaborate on New technology related people, who can help me improve my coding sklls.May be my skills will help you too.
+- 📉 lets grow together
 - 📫 Reach me on Gmail : kasarapuajay860@gmail.com
 
 <h1>GitHub Stats</h1>
